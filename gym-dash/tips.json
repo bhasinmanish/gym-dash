@@ -1,0 +1,38 @@
+{
+  "keywords": {
+    "sleep": [
+      "Try keeping your bedtime within 30 minutes of the same time every night — consistency matters more than duration.",
+      "Avoid screens 30–60 min before bed. Blue light suppresses melatonin by up to 50%.",
+      "A cool room (65–68°F) significantly improves deep sleep quality."
+    ],
+    "bench": [
+      "If bench is stalling, try a 10% deload for one week then re-test. Fatigue masks fitness.",
+      "Add 1 set of incline close-grip press to bring up tricep lockout strength.",
+      "Wrist position matters — keep them stacked directly over elbows to reduce joint stress."
+    ],
+    "squat": [
+      "Box squats 2 inches below parallel can help reinforce depth without loading the spine.",
+      "Goblet squats as warm-up sets groove the pattern and open hip flexors pre-lift."
+    ],
+    "deadlift": [
+      "Reset your hips — if your hips shoot up first, your lower back is doing the work.",
+      "Hip hinge drills with a dowel rod on your back can fix bar path issues fast."
+    ],
+    "motivation": [
+      "On low motivation days, commit to just the warm-up. You almost always finish the session once you start.",
+      "Track the win streaks, not just the PRs — consistency is the meta-skill."
+    ],
+    "nutrition": [
+      "Protein synthesis peaks at ~40g per meal. Spreading protein across 4 meals beats front-loading it.",
+      "Pre-workout carbs 90 min before a session improve output more than caffeine alone."
+    ],
+    "recovery": [
+      "Two consecutive hard sessions on the same muscle group without 48hrs rest blunts adaptation.",
+      "Heart rate variability (HRV) is a better readiness signal than how sore you feel."
+    ],
+    "sore": [
+      "DOMS peaks 24–48hrs after training. Light movement (walk, stretch) clears it faster than rest.",
+      "Contrast showers (hot/cold cycling) can reduce next-day soreness by ~20%."
+    ]
+  }
+}

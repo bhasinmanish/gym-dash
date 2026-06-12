@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-10",
+  "sleep": {
+    "bedtime": "02:34",
+    "wakeTime": "16:59",
+    "hours": 14.4,
+    "quality": 6,
+    "notes": ""
+  },
+  "workout": {
+    "type": "Pull",
+    "status": "yellow",
+    "exercises": [],
+    "sessionNotes": ""
+  },
+  "meals": {
+    "breakfast": null,
+    "lunch": null,
+    "dinner": null,
+    "snacks": null
+  },
+  "body": {
+    "weight": null,
+    "bodyFat": null
+  },
+  "habits": {
+    "water": false,
+    "1_hour_walk": false,
+    "stretching": false,
+    "noPhoneBed": false,
+    "loggedFood": false,
+    "walk_1_hr": false
+  },
+  "journal": {
+    "takeaway": "",
+    "motivation": 7,
+    "motivationNote": "",
+    "wentWell": "wefawerfe",
+    "toImprove": ""
+  }
+}

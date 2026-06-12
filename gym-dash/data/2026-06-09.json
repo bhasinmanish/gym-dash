@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-09",
+  "sleep": {
+    "bedtime": "23:00",
+    "wakeTime": "06:30",
+    "hours": 7.5,
+    "quality": 8,
+    "notes": "Slept well, no interruptions"
+  },
+  "workout": {
+    "type": "Push",
+    "status": "green",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": [
+          { "reps": 5, "weight": 185, "rpe": 8, "rest": 180 },
+          { "reps": 5, "weight": 185, "rpe": 8, "rest": 180 },
+          { "reps": 4, "weight": 185, "rpe": 9, "rest": 180 }
+        ],
+        "notes": "Third set grind, need to deload soon"
+      },
+      {
+        "name": "Overhead Press",
+        "sets": [
+          { "reps": 8, "weight": 115, "rpe": 7, "rest": 120 },
+          { "reps": 8, "weight": 115, "rpe": 8, "rest": 120 },
+          { "reps": 7, "weight": 115, "rpe": 8, "rest": 120 }
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Incline Dumbbell Press",
+        "sets": [
+          { "reps": 10, "weight": 70, "rpe": 7, "rest": 90 },
+          { "reps": 10, "weight": 70, "rpe": 8, "rest": 90 },
+          { "reps": 9, "weight": 70, "rpe": 8, "rest": 90 }
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Lateral Raises",
+        "sets": [
+          { "reps": 15, "weight": 25, "rpe": 7, "rest": 60 },
+          { "reps": 15, "weight": 25, "rpe": 7, "rest": 60 },
+          { "reps": 12, "weight": 25, "rpe": 8, "rest": 60 }
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Tricep Pushdowns",
+        "sets": [
+          { "reps": 12, "weight": 50, "rpe": 7, "rest": 60 },
+          { "reps": 12, "weight": 50, "rpe": 8, "rest": 60 },
+          { "reps": 10, "weight": 50, "rpe": 9, "rest": 60 }
+        ],
+        "notes": ""
+      }
+    ],
+    "sessionNotes": "Solid push day. Bench is stalling, consider reset next week."
+  },
+  "meals": {
+    "breakfast": { "description": "5 eggs scrambled, oats with banana", "calories": 650, "protein": 42 },
+    "lunch": { "description": "Grilled chicken, rice, broccoli", "calories": 800, "protein": 58 },
+    "dinner": { "description": "Salmon, sweet potato, salad", "calories": 850, "protein": 55 },
+    "snacks": { "description": "Greek yogurt, protein bar", "calories": 350, "protein": 30 }
+  },
+  "body": {
+    "weight": 178.5,
+    "bodyFat": 14.2
+  },
+  "habits": {
+    "water": true,
+    "creatine": true,
+    "stretching": false,
+    "noPhoneBed": true,
+    "loggedFood": true
+  },
+  "journal": {
+    "takeaway": "Strong push session, nutrition was on point today",
+    "motivation": 8,
+    "motivationNote": "Felt locked in after morning coffee",
+    "wentWell": "Hit all working sets on bench, great pump on laterals",
+    "toImprove": "Need to stretch after session — skipped again"
+  }
+}

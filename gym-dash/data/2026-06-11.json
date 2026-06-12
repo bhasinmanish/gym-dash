@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-11",
+  "sleep": {
+    "bedtime": "23:45",
+    "wakeTime": "06:30",
+    "hours": 6.8,
+    "quality": 9,
+    "notes": "good sleep"
+  },
+  "workout": {
+    "type": "Cardio",
+    "status": "yellow",
+    "exercises": [],
+    "sessionNotes": "rain"
+  },
+  "meals": {
+    "breakfast": {
+      "description": "egg",
+      "calories": 100,
+      "protein": 10
+    },
+    "lunch": {
+      "description": "efg",
+      "calories": 10,
+      "protein": 15
+    },
+    "dinner": {
+      "description": "salmon",
+      "calories": 200,
+      "protein": 40
+    },
+    "snacks": {
+      "description": "egg",
+      "calories": 15,
+      "protein": 2
+    }
+  },
+  "body": {
+    "weight": 150,
+    "bodyFat": 15
+  },
+  "habits": {
+    "water": true,
+    "1_hour_walk": false,
+    "stretching": false,
+    "noPhoneBed": true,
+    "loggedFood": true,
+    "walk_1_hr": false
+  },
+  "journal": {
+    "takeaway": "no",
+    "motivation": 7,
+    "motivationNote": "sefds",
+    "wentWell": "good",
+    "toImprove": "bad"
+  }
+}
